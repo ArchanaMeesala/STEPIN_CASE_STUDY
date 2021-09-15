@@ -2,6 +2,10 @@
 |Build|CPP CHECK|CODE INSPECTOR SCORE|CODE GRADE||
 |:--:|:--:|:--:|:--:|:--:|
 |[![Compile-Linux](https://github.com/ArchanaMeesala/STEPIN_CASE_STUDY/actions/workflows/Compile.yml/badge.svg)](https://github.com/ArchanaMeesala/STEPIN_CASE_STUDY/actions/workflows/Compile.yml)|[![Cppcheck](https://github.com/ArchanaMeesala/STEPIN_CASE_STUDY/actions/workflows/CodeQuality.yml/badge.svg)](https://github.com/ArchanaMeesala/STEPIN_CASE_STUDY/actions/workflows/CodeQuality.yml)|![Code_inspector_score](https://www.code-inspector.com/project/28712/score/svg)|![CODE GRADE](https://www.code-inspector.com/project/28712/status/svg)|
+
+## CASESTUDY
+![CASE STUDY](https://github.com/ArchanaMeesala/STEPIN_CASE_STUDY/blob/main/simulation/4_Casestudy_a.jpeg)
+![](https://github.com/ArchanaMeesala/STEPIN_CASE_STUDY/blob/main/simulation/4_Casestudy_b.jpeg)
 ## Activity 1 
 
               1.To check whether the seat is occupied by person or not.
