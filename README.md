@@ -18,11 +18,11 @@ Input Switch -1|Switch that gets **closed** when the person occupies the seat in
 Input Switch-2|Switch that gets **closed** when the person turns ON the heater|B6
 Output LED   |LED **glows** when both the inputs are high(i.e B0 and B1)|B5
 
-## Off_condition
+### Off_condition
 
 ![Activity1_off](https://github.com/ArchanaMeesala/STEPIN_CASE_STUDY/blob/main/simulation/1_activity_a.png)
 
-## On_condition
+### On_condition
 ![Activity1_on](https://github.com/ArchanaMeesala/STEPIN_CASE_STUDY/blob/main/simulation/1_activity_b.png)
 
 
@@ -38,7 +38,6 @@ Inputs/Outputs | Description | Port pin used
 -------------- | ----------- | -------------
 Input 1-Temperature sensor |Temperature sensor to **set** the seat temperature by the user |C0
 
-## Activity2
 
 ![Activity 2](https://github.com/ArchanaMeesala/STEPIN_CASE_STUDY/blob/main/simulation/2_activity_a.png)
 ![Activity 2](https://github.com/ArchanaMeesala/STEPIN_CASE_STUDY/blob/main/simulation/2_activity_b.png)
