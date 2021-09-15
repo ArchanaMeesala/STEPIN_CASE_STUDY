@@ -1,6 +1,8 @@
-
-# CASE STUDY
-# Activity 1 
+# Badges
+|Build|CPP CHECK|CODE INSPECTOR SCORE|CODE GRADE||
+|:--:|:--:|:--:|:--:|:--:|
+|[![Compile-Linux](https://github.com/ArchanaMeesala/STEPIN_CASE_STUDY/actions/workflows/Compile.yml/badge.svg)](https://github.com/ArchanaMeesala/STEPIN_CASE_STUDY/actions/workflows/Compile.yml)|[![Cppcheck](https://github.com/ArchanaMeesala/STEPIN_CASE_STUDY/actions/workflows/CodeQuality.yml/badge.svg)](https://github.com/ArchanaMeesala/STEPIN_CASE_STUDY/actions/workflows/CodeQuality.yml)|![Code_inspector_score](https://www.code-inspector.com/project/28712/score/svg)|![CODE GRADE](https://www.code-inspector.com/project/28712/status/svg)|
+## Activity 1 
 
               1.To check whether the seat is occupied by person or not.
               2.To check the status of heater. 
@@ -21,7 +23,7 @@ Output LED   |LED **glows** when both the inputs are high(i.e B0 and B1)|B5
 
 
 
-# Activity 2
+## Activity 2
 
                1.To interface temperature sensor with microcontroller. 
                2.To read the temperature value set by the user.
@@ -38,7 +40,7 @@ Input 1-Temperature sensor |Temperature sensor to **set** the seat temperature b
 ![Activity 2](https://github.com/ArchanaMeesala/STEPIN_CASE_STUDY/blob/main/simulation/2_activity_b.png)
 ![Activity 2](https://github.com/ArchanaMeesala/STEPIN_CASE_STUDY/blob/main/simulation/2_activity_c.png)
 
-# Activity 3
+## Activity 3
 
                1.To generate PWM pulse with varying duty cycle based on the temperature value set by the user.
 
