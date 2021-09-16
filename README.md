@@ -18,14 +18,6 @@ Input Switch -1|Switch that gets **closed** when the person occupies the seat in
 Input Switch-2|Switch that gets **closed** when the person turns ON the heater|B6
 Output LED   |LED **glows** when both the inputs are high(i.e B0 and B1)|B5
 
-### Off_condition
-
-![Activity1_off](https://github.com/ArchanaMeesala/STEPIN_CASE_STUDY/blob/main/simulation/1_activity_a.png)
-
-### On_condition
-![Activity1_on](https://github.com/ArchanaMeesala/STEPIN_CASE_STUDY/blob/main/simulation/1_activity_b.png)
-
-
 
 ## Activity 2
 
@@ -39,10 +31,6 @@ Inputs/Outputs | Description | Port pin used
 Input 1-Temperature sensor |Temperature sensor to **set** the seat temperature by the user |C0
 
 
-![Activity 2](https://github.com/ArchanaMeesala/STEPIN_CASE_STUDY/blob/main/simulation/2_activity_a.png)
-![Activity 2](https://github.com/ArchanaMeesala/STEPIN_CASE_STUDY/blob/main/simulation/2_activity_b.png)
-![Activity 2](https://github.com/ArchanaMeesala/STEPIN_CASE_STUDY/blob/main/simulation/2_activity_c.png)
-
 ## Activity 3
 
                1.To generate PWM pulse with varying duty cycle based on the temperature value set by the user.
@@ -51,8 +39,5 @@ Inputs/Outputs | Description | Port pin used
 -------------- | ----------- | -------------
 Output 1-Oscilloscope |Oscilloscope to **view** the PWM pulse corresponding to temperature value |B1
 
-![Activity 3](https://github.com/ArchanaMeesala/STEPIN_CASE_STUDY/blob/main/simulation/3_activity_a.png)
-![Activity 3](https://github.com/ArchanaMeesala/STEPIN_CASE_STUDY/blob/main/simulation/3_activity_b.png)
-![Activity 3](https://github.com/ArchanaMeesala/STEPIN_CASE_STUDY/blob/main/simulation/3_activity_c.png)
 
 
