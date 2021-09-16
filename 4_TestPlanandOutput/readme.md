@@ -1,7 +1,7 @@
 
 ## CASESTUDY
-![CASE STUDY](https://github.com/ArchanaMeesala/STEPIN_CASE_STUDY/blob/main/simulation/4_Casestudy_a.jpeg)
-![](https://github.com/ArchanaMeesala/STEPIN_CASE_STUDY/blob/main/simulation/4_Casestudy_b.jpeg)
+![CASE STUDY](https://github.com/ArchanaMeesala/STEPIN_CASE_STUDY/blob/main/6_Images_and%20_%20Vedios/simulation/4_Casestudy_a.jpeg)
+![](https://github.com/ArchanaMeesala/STEPIN_CASE_STUDY/blob/main/6_Images_and%20_%20Vedios/simulation/4_Casestudy_b.jpeg)
 ## Activity 1 
 
               1.To check whether the seat is occupied by person or not.
@@ -16,10 +16,10 @@ Output LED   |LED **glows** when both the inputs are high(i.e B0 and B1)|B5
 
 ### Off_condition
 
-![Activity1_off](https://github.com/ArchanaMeesala/STEPIN_CASE_STUDY/blob/main/simulation/1_activity_a.png)
+![Activity1_off](https://github.com/ArchanaMeesala/STEPIN_CASE_STUDY/blob/main/6_Images_and%20_%20Vedios/simulation/1_activity_a.png)
 
 ### On_condition
-![Activity1_on](https://github.com/ArchanaMeesala/STEPIN_CASE_STUDY/blob/main/simulation/1_activity_b.png)
+![Activity1_on](https://github.com/ArchanaMeesala/STEPIN_CASE_STUDY/blob/main/6_Images_and%20_%20Vedios/simulation/1_activity_b.png)
 
 
 
@@ -35,9 +35,9 @@ Inputs/Outputs | Description | Port pin used
 Input 1-Temperature sensor |Temperature sensor to **set** the seat temperature by the user |C0
 
 
-![Activity 2](https://github.com/ArchanaMeesala/STEPIN_CASE_STUDY/blob/main/simulation/2_activity_a.png)
-![Activity 2](https://github.com/ArchanaMeesala/STEPIN_CASE_STUDY/blob/main/simulation/2_activity_b.png)
-![Activity 2](https://github.com/ArchanaMeesala/STEPIN_CASE_STUDY/blob/main/simulation/2_activity_c.png)
+![Activity 2](https://github.com/ArchanaMeesala/STEPIN_CASE_STUDY/blob/main/6_Images_and%20_%20Vedios/simulation/2_activity_a.png)
+![Activity 2](https://github.com/ArchanaMeesala/STEPIN_CASE_STUDY/blob/main/6_Images_and%20_%20Vedios/simulation/2_activity_b.png)
+![Activity 2](https://github.com/ArchanaMeesala/STEPIN_CASE_STUDY/blob/main/6_Images_and%20_%20Vedios/simulation/2_activity_c.png)
 
 ## Activity 3
 
@@ -47,8 +47,8 @@ Inputs/Outputs | Description | Port pin used
 -------------- | ----------- | -------------
 Output 1-Oscilloscope |Oscilloscope to **view** the PWM pulse corresponding to temperature value |B1
 
-![Activity 3](https://github.com/ArchanaMeesala/STEPIN_CASE_STUDY/blob/main/simulation/3_activity_a.png)
-![Activity 3](https://github.com/ArchanaMeesala/STEPIN_CASE_STUDY/blob/main/simulation/3_activity_b.png)
-![Activity 3](https://github.com/ArchanaMeesala/STEPIN_CASE_STUDY/blob/main/simulation/3_activity_c.png)
+![Activity 3](https://github.com/ArchanaMeesala/STEPIN_CASE_STUDY/blob/main/6_Images_and%20_%20Vedios/simulation/3_activity_a.png)
+![Activity 3](https://github.com/ArchanaMeesala/STEPIN_CASE_STUDY/blob/main/6_Images_and%20_%20Vedios/simulation/3_activity_b.png)
+![Activity 3](https://github.com/ArchanaMeesala/STEPIN_CASE_STUDY/blob/main/6_Images_and%20_%20Vedios/simulation/3_activity_c.png)
 
 
