@@ -45,7 +45,20 @@ The design  of the project is simple and low cost . Its beneficial to use becaus
 ## How
 By allowing the person to seat and modify the temperature of the seat as he required.
 
+## Basic requirements that very essential are
 
+### HIGH LEVEL REQUIREMENT
+|ID|DESCRIPTION|
+|:--:|:--:|
+|HR01|Atmega328 microcontroller which is used for controlling the whole system process| 
+|HR02|To change the temperature of seat Potentiometer is used.|
+|HR03|Heating element|
+
+### LOW LEVEL REQUIREMENT
+|ID|DESCRIPTION|
+|:--:|:--:|
+|LR01|To display the temperature change of Seat.|
+|LR02|Simulid to design the circuit and to run the code.|
 
 
 
