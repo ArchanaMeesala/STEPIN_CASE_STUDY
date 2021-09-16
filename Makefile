@@ -3,11 +3,11 @@ PROJ_NAME = CASE_STUDY
 BUILD_DIR = Build
 
 # All Source code files
-SRC = 3_Implementation/src/ac1.c\
-3_Implementation/src/ac2.c\
-3_Implementation/src/ac3.c\
-3_Implementation/main.c\
-3_Implementation/fuse.c
+SRC = src/ac1.c\
+src/ac2.c\
+src/ac3.c\
+main.c\
+fuse.c
 
 INC = -I inc
 
