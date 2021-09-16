@@ -7,6 +7,7 @@ This is the case study of seat heat monitoring system . In  this seat heat monit
 The main objectives of this project are: 
 * To design and develop the system which is capable of sensing the presence of person and seat heat monitoring and displaying the PWM signal.
 ## SWOT ANALYSIS
+![SWOT](https://github.com/ArchanaMeesala/STEPIN_CASE_STUDY/blob/main/6_Images_and%20_%20Vedios/simulation/SWOT_case_study.png)
 ### Strength
  * User friendly.
  * Capable of determining the presence of person on the seat.
