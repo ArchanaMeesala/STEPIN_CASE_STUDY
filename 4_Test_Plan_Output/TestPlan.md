@@ -1,7 +1,7 @@
 ﻿
 
 # Testplan
-﻿# TEST PLAN
+
 |TEST ID|DESCRIPTION|EXPECTED I/P|EXPECTED O/P|TEST PASS/FAIL |
 |:--:|:--:|:--:|:--:|:--:|
 |TP1|Seat Occupancy Switch and Heater Switch| Both switches ON| Read ADC value| PASS|
